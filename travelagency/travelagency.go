@@ -12,6 +12,7 @@ type TravelAgency struct {
 
 func main() {
 
+	fmt.Println("Starts")
 	
 	ta := TravelAgency{id: 1, name: "Steves Travel"}
 
